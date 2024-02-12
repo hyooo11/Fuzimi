@@ -3,6 +3,7 @@
 <p align="center"><img width="200" alt="logo" src="https://github.com/hyooo11/project_fuzimi/assets/98132929/e280f79c-262d-466b-a04e-3e0a0857d71a"/></p>
 
 나만의 감정 다이어리 푸지미<br>
+
 URL - https://hyooojin-emotion-diary.web.app/<br><br>
 
 ## 💁 프로젝트 소개
