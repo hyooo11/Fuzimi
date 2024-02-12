@@ -4,7 +4,7 @@
 
 나만의 감정 다이어리 푸지미<br>
 
-URL - https://hyooojin-emotion-diary.web.app/<br><br>
+URL - https://diary-fuzimi.web.app/<br><br>
 
 ## 💁 프로젝트 소개
 
@@ -14,9 +14,7 @@ URL - https://hyooojin-emotion-diary.web.app/<br><br>
 ### ⚙ 기술스택
 
 <div>
-  <!-- <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white"> -->
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
-  <!-- <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"> -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
