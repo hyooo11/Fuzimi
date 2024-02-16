@@ -25,4 +25,4 @@ yarn-error.log*
 # Firebase
 .firebase/
 firebase.json
-/.firebase/*
+.firebase
