@@ -42,19 +42,28 @@ URL - https://diary-fuzimi.web.app/<br><br>
 
 <br>
 
+## ✅ 프로젝트 배포
+
+이 프로젝트는 [Firebase](https://firebase.google.com/?hl=ko)을 사용하여 배포되었습니다.<br><br>
+
+> main 브랜치에서 build 명령어 실행
+
+```bash
+  npm run build
+```
+
+> 배포 명령어 실행
+
+```bash
+  firebase deploy
+```
+
 ## 💡 Reference
 
-규칙적인 깃 커밋 메세지 위한 conventional commits
+- 규칙적인 깃 커밋 메세지 위한 [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/)
 
-- https://www.conventionalcommits.org/en/v1.0.0/
+- 주요 프레임워크 및 라이브러리 [React.js](https://ko.legacy.reactjs.org/)
 
-주요 프레임워크 및 라이브러리
+- 배포 [Firebase](https://firebase.google.com/?hl=ko)
 
-- https://ko.legacy.reactjs.org/
-
-배포
-
-- https://firebase.google.com/?hl=ko
-
-푸지미 캐릭터 디자인 제공<br>
-박진희 (email - skwlsgmlekd@naver.com)
+- Character design by zimi (email | skwlsgmlekd@naver.com)
